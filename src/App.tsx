@@ -6,7 +6,10 @@ function App() {
   return (
     <>
   <div>
-    안녕안녕 나는 지수야
+    안녕안녕 나는 제윤
+  </div>
+  <div>
+    제윤이 본문 추가함
   </div>
     </>
   )
